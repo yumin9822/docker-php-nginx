@@ -10,7 +10,7 @@ Lightwight Docker image for the (latest) PHP-FPM and Nginx based on [AlpineLinux
   
 ### Usage
 ```bash
-sudo docker run -v /data:/DATA -p 80:80 psitrax/php-nginx
+sudo docker run -v /data:/DATA -p 80:80 yumin9822/docker-php-nginx
 ```
 
 ### Volume structure
